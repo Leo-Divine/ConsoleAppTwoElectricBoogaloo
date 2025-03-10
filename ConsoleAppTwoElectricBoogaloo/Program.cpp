@@ -6,7 +6,7 @@
 using namespace std;
 
 class Regional2018 {
-	//00196205
+	
 
 	/*
 		Name: main();
